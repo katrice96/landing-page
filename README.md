@@ -1,0 +1,1 @@
+this is a project designed to showcase a base level of competency in primary css skills such as css flex. by the end of this project i will have further familiarized myself with css and the many benefits it provides in the stylization and customization of web based applications. 
