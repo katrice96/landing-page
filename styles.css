@@ -65,10 +65,18 @@ a {
 
 }
 
+.p1class {
+    margin: 0;
+}
+
+.h1class {
+    margin-bottom: 6px;
+}
+
 .p1 {
 
     color: #eeeeee9e;
-    margin: 0;
+    
 
 }
 
