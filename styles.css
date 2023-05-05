@@ -52,6 +52,7 @@ a {
     display: flex;
     flex-direction: row;
     padding: 10%;
+    gap: 50px;
     
 
 }
@@ -62,14 +63,14 @@ a {
 .h1 { color: #eee; 
     padding-left: 9%; 
     display: flex;
-    flex-wrap: wrap;
-
+    white-space: pre-wrap
    
 
 }
 
 .p1class {
     margin: 0;
+    white-space: pre-wrap;
     
 }
 
