@@ -38,7 +38,7 @@ img {
     gap: 16px;
     margin: 0; 
     padding: 0 
- 
+    
 }
 
 a {
@@ -60,12 +60,16 @@ a {
 
 .h1 { color: #eee; 
     padding-left: 9%; 
+    display: flex;
+    flex-wrap: wrap;
+
    
 
 }
 
 .p1class {
     margin: 0;
+    
 }
 
 .h1class {
@@ -76,6 +80,8 @@ a {
 
     color: #eeeeee9e;
     padding-left: 9%; 
+    display: flex;
+    flex-wrap: wrap;
     
 
 }
