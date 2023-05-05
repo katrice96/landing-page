@@ -50,8 +50,9 @@ a {
 .container1 {
     background-color: #13155d;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     padding: 10%;
+    
 
 }
 
