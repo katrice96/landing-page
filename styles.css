@@ -53,15 +53,14 @@ a {
     flex-direction: column;
     padding: 10%;
 
-    
-
 }
 
 
 
 
 .h1 { color: #eee; 
-     
+    padding-left: 9%; 
+   
 
 }
 
@@ -76,6 +75,7 @@ a {
 .p1 {
 
     color: #eeeeee9e;
+    padding-left: 9%; 
     
 
 }
@@ -83,6 +83,7 @@ a {
 .button1 {
 
     margin-top: 12px;
+    padding-left: 9%;
 
 }
 
@@ -97,6 +98,8 @@ a {
 
 .imgtest {
 
+    height: 200px;
+    width: auto;
 }
     
 
