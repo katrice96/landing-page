@@ -58,6 +58,16 @@ a {
 }
 
 
+.container1-left,
+.container1-right {
+    flex-basis: 50%
+}
+
+.container1-right img {
+    max-width: 100%;
+    height: auto;
+}
+
 
 
 .h1 { color: #eee; 
@@ -106,8 +116,7 @@ a {
 
 .imgtest {
 
-    height: 200px;
-    width: auto;
+    height: 500px;
 }
     
 
