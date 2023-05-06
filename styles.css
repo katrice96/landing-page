@@ -108,8 +108,12 @@ a {
 }
 
 .buttonclass {
-    
+
+    color: #f8f9f9;
+    background-color: #3882f6;
 }
+
+
 
 .img1 { 
     display: flex;
