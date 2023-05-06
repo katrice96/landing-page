@@ -13,7 +13,7 @@ body {
 }
 
 img {
-    max-width: 10%;
+    max-width: 40%;
     height: auto; 
 }
 
@@ -143,7 +143,17 @@ a {
 }
 
 .imgcontainer1 {
+    display: flex;
+    max-width: 75%;
+    justify-content: center;
+    flex-direction: row;
+    padding-left: 150px; 
+    padding-top: 36px;
+}
 
+
+.img2 .img3 .img4 .img5 {
+    
 }
 
 .img2 {
@@ -151,6 +161,8 @@ a {
 }
 
 .imgtxt {
+    display: flex;
+    white-space: pre-wrap
 
 }
 
