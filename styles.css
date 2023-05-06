@@ -60,7 +60,9 @@ a {
 
 .container1-left,
 .container1-right {
+    padding-right: 9.5%;
     flex-basis: 50%
+    
 }
 
 .container1-right img {
