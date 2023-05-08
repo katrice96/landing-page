@@ -134,23 +134,34 @@ a {
     
 
 .container2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 32px;
 
 }
 
 .title2 {
     display: flex;
     justify-content: center;
+    width: 100%;
 }
 
 .imgcontainer1 {
     display: flex;
-    max-width: 75%;
+    
     justify-content: center;
     flex-direction: row;
     padding-top: 36px;
     margin-left: 150px;
 }
 
+.imgtarget {
+    border: 3px;
+    border-color: #3882f6;
+    border-style: solid;
+    border-radius: 10%;
+}
 
 .img2 .img3 .img4 .img5 {
     
@@ -162,7 +173,8 @@ a {
 
 .imgtxt {
     display: flex;
-    white-space: pre-wrap
+    white-space: pre-wrap;
+    width: 50%;
 
 }
 
