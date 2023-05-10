@@ -208,43 +208,108 @@ a {
 .container3 {
     background-color: #E5E7EB;
     display: flex;
+    flex-grow: 1;
    flex-direction: column;
    padding: 64px;
 }
 
 .textcontainer1 {
 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: end;
+    
+
+}
+
+.quotetext1 {
+    font-style: italic;
+}
+
+.quotetext2 {
+    font-weight: 700;
 }
 
 .p2 {
 
+    display: flex;
+    width: 65%;
+    font-size: 36px;
+    color: #707071;
 }
 
 .p3 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: end;
+    text-align: end;
+    width: 82%;
+    
 
 }
 
-.container4 {
 
+.container4 {
+    padding: 72px;
+    padding-right: 108px;
+    padding-left: 108px;
 }
 
 .innercontainer {
+    background-color: rgb(43, 136, 212);
+    background-color: rgb(43, 136, 212);
+    display: flex;
+    border-radius: 120px;
+    padding: 18px;
+}
 
+.p4,
+.p5 {
+    color: white;
 }
 
 .textcontainer2 {
+
+ 
 
 }
 
 .containertext1 {
 
+    text-align: center;
+  
 }
 
 .containertext2 {
 
+    text-align: center;
+
 }
 
 .button2 {
+
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+    
+}
+
+.buttonclass2 {
+    border: 3px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+    color: white;
+    background-color: #407ad559;
+}
+
+.textcontainer2, .button2 {
+
+    padding-right: 9.5%;
+    text-align: end;
+    flex-basis: 50%
     
 }
 
